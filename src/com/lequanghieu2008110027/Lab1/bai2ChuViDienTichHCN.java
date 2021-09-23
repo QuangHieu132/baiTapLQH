@@ -1,4 +1,4 @@
-package Lab1;
+package com.lequanghieu2008110027.Lab1;
 import java.util.Scanner;
 
 public class bai2ChuViDienTichHCN {

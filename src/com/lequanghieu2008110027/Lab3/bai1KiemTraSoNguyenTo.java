@@ -1,4 +1,4 @@
-package Lap3;
+package com.lequanghieu2008110027.Lab3;
 
 import java.util.Scanner;
 

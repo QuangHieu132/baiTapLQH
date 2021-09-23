@@ -1,4 +1,4 @@
-package Lap2;
+package com.lequanghieu2008110027.Lab2;
 import java.util.Scanner;
 
 public class bai4MeNuTongHopLap2 {

@@ -1,7 +1,7 @@
-package Lap2;
+package com.lequanghieu2008110027.Lab2;
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner6;
+
 
 public class bai2GiaiPTBac2 {
     public static void main(String[] args) {

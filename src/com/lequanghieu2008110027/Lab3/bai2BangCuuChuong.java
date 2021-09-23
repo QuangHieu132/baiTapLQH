@@ -1,4 +1,4 @@
-package Lap3;
+package com.lequanghieu2008110027.Lab3;
 
 public class bai2BangCuuChuong {
     public static void main(String[] args) {
